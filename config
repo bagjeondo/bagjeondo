@@ -10,7 +10,7 @@
 	remote = origin/RCTIP_SENDER.java
         
         //change your HashID  
-         merge = '4874589g5854097' 
+         merge = 'a5d9c3537094dd76ff2c21c5116ef6d0' 
 
         //change your password 
         Password = '00000'
